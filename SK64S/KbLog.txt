@@ -1,0 +1,4 @@
+[23:39:55.1089889] Connected to device 'SK64S-RGB' model:656801818 fw:v1.33
+[23:43:04.6697887] Connected to device 'SK64S-RGB' model:656801818 fw:v1.33
+[23:44:39.0409837] Connected to device 'SK64S-RGB' model:656801818 fw:v1.33
+[23:44:42.7772273] Done
